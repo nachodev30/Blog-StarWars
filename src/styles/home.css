@@ -1,0 +1,22 @@
+#navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+#characters {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+}
+
+#planets {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+}
+
+#vehicles {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+}
